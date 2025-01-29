@@ -65,13 +65,24 @@ To verify if JMeter is installed, run the following command in your command prom
 Clone the Repository:
 
 Clone the repository using Git with the following command:
+
+
+
 ###### git clone https://github.com/nowreen-codes/Web-Automation-On-NopCommerce-Using-Playwright.git
+
+
+
 Then navigate to the project directory:
+
+
+
 ###### cd Performance-Testing-on-NopCommerce
+
+
+
 Web Recording and Proxy Server Setup:
 
-To record web actions with JMeter, you need to install a proxy server.
-Go to the bin folder of the JMeter installation and double-click on ApacheJMeterTemporaryRootCA. Install it, then upload it to your desired browser.
+To record web actions with JMeter, you need to install a proxy server. Go to the bin folder of the JMeter installation and double-click on ApacheJMeterTemporaryRootCA. Install it, then upload it to your desired browser.
 
 
 
@@ -91,8 +102,17 @@ The "View Results Tree" listener displays test results in a tree format. It prov
 
 
 
-Summary Report
+
+
+
+#### Summary Report
+
+
+
 The Summary Report listener offers a high-level overview of the test results, usually presented in a tabular format. It summarizes key performance metrics, including average response time, throughput, error rate, and the total number of requests processed. This report is perfect for quickly evaluating the overall performance of the system and identifying any major issues at a glance.
+
+
+
 
 
 
