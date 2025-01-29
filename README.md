@@ -65,7 +65,7 @@ To verify if JMeter is installed, run the following command in your command prom
 Clone the Repository:
 
 Clone the repository using Git with the following command:
-###### git clone 
+###### git clone https://github.com/nowreen-codes/Web-Automation-On-NopCommerce-Using-Playwright.git
 Then navigate to the project directory:
 ###### cd Performance-Testing-on-NopCommerce
 Web Recording and Proxy Server Setup:
