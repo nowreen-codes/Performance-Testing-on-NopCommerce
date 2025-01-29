@@ -68,7 +68,7 @@ Clone the repository using Git with the following command:
 
 
 
-###### git clone https://github.com/nowreen-codes/Web-Automation-On-NopCommerce-Using-Playwright.git
+###### git clone https://github.com/nowreen-codes/Performance-Testing-on-NopCommerce.git
 
 
 
@@ -138,7 +138,7 @@ Contributions are welcome! Follow these steps:
 5. Open a pull request.
 
 ## Contact
-Your Name - [Linkdin](www.linkedin.com/in/nowreen-islam) 
+Nowreen Islam - [Linkdin](www.linkedin.com/in/nowreen-islam) 
 
 
 ## Reference
