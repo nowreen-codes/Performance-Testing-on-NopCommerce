@@ -48,7 +48,7 @@ Test how the system performs during the checkout process with many concurrent us
 
 ### Installation
 
-1.Java JDK Installation:
+1. Java JDK Installation:
 
 
 
@@ -58,7 +58,7 @@ To check if Java is installed, run the following command in your command prompt:
 java -v
 ```
 
-2.Apache Maven Installation:
+2. Apache Maven Installation:
 
 Download and install the "binary zip archive" version of Apache Maven.
 To confirm if Maven is installed, run the following command in the command prompt:
@@ -67,14 +67,14 @@ mvn -v
 ```
 
 
-3.JMeter Installation:
+3. JMeter Installation:
 
 Download the zip file for JMeter from the official link and install it.
 To verify if JMeter is installed, run the following command in your command prompt:
 ```bash
  jmeter -v
 ```
-4.Clone the Repository:
+4. Clone the Repository:
 
 - Clone the repository using Git with the following command:
 
@@ -91,7 +91,7 @@ cd Performance-Testing-on-NopCommerce
 ```
 
 
-5.Web Recording and Proxy Server Setup:
+5. Web Recording and Proxy Server Setup:
 
 To record web actions with JMeter, you need to install a proxy server. Go to the bin folder of the JMeter installation and double-click on ApacheJMeterTemporaryRootCA. Install it, then upload it to your desired browser.
 
